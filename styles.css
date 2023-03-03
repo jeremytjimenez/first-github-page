@@ -1,0 +1,23 @@
+body {
+    background-image: linear-gradient(rgb(141, 141, 228),azure);
+}
+
+h1 {
+    color: rgb(255, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px 2px rgb(124, 124, 146);
+}
+
+span {
+    font-weight: bolder;
+}
+
+label {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    border-radius: 10px;
+    border: 1px solid #333;
+    box-shadow: 3px 3px 10px #999;
+}
